@@ -77,7 +77,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git z zsh-autosuggestions zsh-syntax-highlighting sudo web-search copypath copyfile dirhistory jsontools history command-not-found)
+plugins=(git you-should-use z zsh-autosuggestions zsh-syntax-highlighting sudo web-search copypath copyfile dirhistory jsontools history command-not-found virtualenv)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -107,7 +107,10 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias vim='nvim'
+alias syu='sudo pacman -Syu'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
