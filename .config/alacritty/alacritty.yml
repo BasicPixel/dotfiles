@@ -32,6 +32,10 @@ scrolling:
 shell:
   program: /usr/bin/zsh
 
+
+key_bindings:
+  - { key: F11, action: ToggleFullscreen }
+
 # Color theme (Nord)
 # Repository: https://github.com/arcticicestudio/nord-alacritty
 colors:
