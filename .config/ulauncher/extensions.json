@@ -1,0 +1,58 @@
+{
+    "com.github.hillaryychan.ulauncher-fzf": {
+        "id": "com.github.hillaryychan.ulauncher-fzf",
+        "url": "https://github.com/hillaryychan/ulauncher-fzf",
+        "updated_at": "2022-05-24T15:50:23.012352",
+        "last_commit": "e3729d3b67bb038222ea9fcba074fdd50b9dd815",
+        "last_commit_time": "2022-04-29T11:55:36"
+    },
+    "com.github.lighttigerxiv.ulauncher-session-manager": {
+        "id": "com.github.lighttigerxiv.ulauncher-session-manager",
+        "url": "https://github.com/lighttigerXIV/ulauncher-session-manager",
+        "updated_at": "2022-05-24T15:50:36.719874",
+        "last_commit": "f8b93ed7c322ebd7d85bc89cd7ade77d27ca4db1",
+        "last_commit_time": "2022-05-16T19:07:18"
+    },
+    "com.github.brpaz.ulauncher-lipsum": {
+        "id": "com.github.brpaz.ulauncher-lipsum",
+        "url": "https://github.com/brpaz/ulauncher-lipsum",
+        "updated_at": "2022-05-24T16:55:23.698192",
+        "last_commit": "039c40ae47786be4c8b66233f146809fa07546f1",
+        "last_commit_time": "2021-12-12T15:47:24"
+    },
+    "com.github.adamtillou.ulauncher-aurman-plugin": {
+        "id": "com.github.adamtillou.ulauncher-aurman-plugin",
+        "url": "https://github.com/AdamTillou/ulauncher-aurman-plugin",
+        "updated_at": "2022-05-24T16:56:17.662633",
+        "last_commit": "af11b33cb6ed6ec055859482bdde0353013d1378",
+        "last_commit_time": "2021-07-16T21:51:05"
+    },
+    "com.github.kbialek.ulauncher-bitwarden": {
+        "id": "com.github.kbialek.ulauncher-bitwarden",
+        "url": "https://github.com/kbialek/ulauncher-bitwarden",
+        "updated_at": "2022-05-24T16:56:31.926641",
+        "last_commit": "5701f18b7d4d14bb0c2da3ccfbaa618804b27d4a",
+        "last_commit_time": "2022-02-11T10:14:06"
+    },
+    "com.github.plibither8.ulauncher-vscode-recent": {
+        "id": "com.github.plibither8.ulauncher-vscode-recent",
+        "url": "https://github.com/plibither8/ulauncher-vscode-recent",
+        "updated_at": "2022-05-24T16:59:55.277797",
+        "last_commit": "610dc19a6bab76fd9438e1059aba849201a4a4aa",
+        "last_commit_time": "2022-05-19T11:37:12"
+    },
+    "com.github.ulauncher.ulauncher-emoji": {
+        "id": "com.github.ulauncher.ulauncher-emoji",
+        "url": "https://github.com/Ulauncher/ulauncher-emoji",
+        "updated_at": "2022-05-24T17:06:31.534251",
+        "last_commit": "4c6af50d1c9a24d5aad2c597634ff0c634972a5c",
+        "last_commit_time": "2021-08-08T19:19:59"
+    },
+    "com.github.ulauncher.ulauncher-kill": {
+        "id": "com.github.ulauncher.ulauncher-kill",
+        "url": "https://github.com/Ulauncher/ulauncher-kill",
+        "updated_at": "2022-05-24T21:20:59.913418",
+        "last_commit": "7ba3f9fb273c4cbbecd26352c88a3156205417db",
+        "last_commit_time": "2020-01-05T13:02:00"
+    }
+}
